@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.tab-item {
+  padding: 10px;
+}
+.tab-button {
+  background-color: transparent;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color:  #7b8794;
+}
